@@ -24,7 +24,8 @@ module.exports = function (url, callback) {
         }
     })
 }
+/*
 let url = 'http://top.baidu.com/buzz?b=26&c=1&fr=topcategory_c1';
 module.exports(url, function (err, movies) {
     console.log(movies);
-})
+})*/
